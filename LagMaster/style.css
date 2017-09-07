@@ -553,6 +553,19 @@ ul.nav__links > li > ul > li > a {
 		left:2%;
 		right:2%;
 	}
+
+	.application__rimtojoist .application__container_title {
+		font-size: 17px;
+    letter-spacing: 1px;
+	}
+
+	.application__rimtojoist .application__container_content {
+		font-size:11px;
+	}
+
+	.application__joistandledger .application__container_content {
+		font-size:11px;
+	}
 }
 
 /* End of Application Items */

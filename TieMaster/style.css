@@ -544,6 +544,10 @@ ul.nav__links > li > ul > li > a {
 		left:2%;
 		right:2%;
 	}
+
+	.application__joistandledger .application__container_content {
+		font-size:11px;
+	}
 }
 
 /* End of Application Items */
